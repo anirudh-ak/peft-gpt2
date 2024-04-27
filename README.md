@@ -26,6 +26,6 @@ LoRA (Low-Rank Adaptation): A parameter-efficient fine-tuning technique that int
 
 Parameter-efficient fine-tuning using LoRA led to the following improvements in the GPT-2 model's performance on the emotion classification task:
 
-- Accuracy increased by 4.4%
-- Loss reduced by 14.78%
-- F1 score improved by 4.37%
+- Accuracy increased by 60.2%
+- Loss reduced by 92.9%
+- F1 score improved by 415%

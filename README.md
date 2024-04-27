@@ -24,3 +24,11 @@ GPT-2: A pre-trained Transformer-based language model from Hugging Face.
 **Fine-Tuning Technique**
 
 LoRA (Low-Rank Adaptation): A parameter-efficient fine-tuning technique that introduces trainable, low-rank decomposition matrices into the model to adjust existing weights.
+
+**Results**
+
+Parameter-efficient fine-tuning using LoRA led to the following improvements in the GPT-2 model's performance on the emotion classification task:
+
+- Accuracy increased by 4.4%
+- Loss reduced by 14.78%
+- F1 score improved by 4.37%
